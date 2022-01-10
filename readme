@@ -1,0 +1,5 @@
+geesweeper was a solo project created for Hack The North 2021.
+The inspiration came from the classic game Minesweeper and the abundance of geese on UW campus.
+
+A bug/feature is that, once a blank tile is clicked, only the tiles directly adjacent are revealed as well rather than all
+  the adjacent-touching tiles.
